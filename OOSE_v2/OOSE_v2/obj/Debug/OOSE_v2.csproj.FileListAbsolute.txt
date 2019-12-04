@@ -1,0 +1,16 @@
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\bin\Debug\OOSE_v2.exe.config
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\bin\Debug\OOSE_v2.exe
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\bin\Debug\OOSE_v2.pdb
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.csprojAssemblyReference.cache
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Properties.Resources.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.csproj.GenerateResource.cache
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.exe
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.pdb
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form2.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.permission.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form3.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form4.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form5.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form6.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form7.resources
+C:\Users\fawzy ahmed\source\repos\OOSE_v2\OOSE_v2\obj\Debug\OOSE_v2.Form8.resources
